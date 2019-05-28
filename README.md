@@ -1,5 +1,11 @@
 # Big Data Management &amp; Analysis
-This repository is a showcase for my work in Big Data Management & Analysis during Spring 2019. It contains both homework and lab assignments.
+#### Instructed by Proffesor Huy T. Vo, NYU
+This repository is a showcase for my coursework in Big Data Management & Analysis during Spring 2019. 
+
+The course aimed to provide a broad understanding of big data and current technologies in managing and
+processing them with a focus on the urban environment. Topics included big data ecosystems, parallel and streaming programming model, MapReduce, Hadoop, Spark, Pig, and NoSQL solutions.
+
+Included in this repo are solutions for the following assignments:
 
 * *HW 1: Streaming*
     * Simple cash-register exercise using python to count the count the number of customers per product
@@ -19,3 +25,4 @@ from.
 normalized number of tweets using the provided boundary and population data. Implemented using
 Spark in a scalable way such that if there are additional tweets, or
 census tract data available, code can still run efficiently.
+
